@@ -1,0 +1,6 @@
+[project]
+name = "scopesieve"
+version = "0.1.0"
+description = "Offline validator for authorized asset scope inventories"
+requires-python = ">=3.9"
+license = {text = "MIT"}

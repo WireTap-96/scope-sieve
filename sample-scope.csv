@@ -1,0 +1,3 @@
+asset,owner,environment,authorization_reference,authorized_until,last_reviewed
+lab-web.example.test,Training lab,lab,LAB-001,2026-12-31,2026-11-01
+192.0.2.10,Training lab,lab,LAB-001,2026-12-31,2026-11-01
